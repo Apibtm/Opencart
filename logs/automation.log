@@ -1,0 +1,100 @@
+2026-04-28 12:06:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\paulp\eclipse-workspace\new\OpenCart\testng.xml
+
+2026-04-28 12:07:03 INFO  TC_00_1_CreateAccount:23 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-04-28 12:07:04 INFO  TC_00_1_CreateAccount:23 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-04-28 12:07:04 INFO  TC_00_1_CreateAccount:26 - Clicked on MyAccount Link.. 
+2026-04-28 12:07:04 INFO  TC_00_1_CreateAccount:26 - Clicked on MyAccount Link.. 
+2026-04-28 12:07:05 INFO  TC_00_1_CreateAccount:28 - Clicked on Register Link.. 
+2026-04-28 12:07:05 INFO  TC_00_1_CreateAccount:29 - Providing customer details...
+2026-04-28 12:07:05 INFO  TC_00_1_CreateAccount:28 - Clicked on Register Link.. 
+2026-04-28 12:07:05 INFO  TC_00_1_CreateAccount:29 - Providing customer details...
+2026-04-28 12:07:07 INFO  TC_00_1_CreateAccount:40 - ***** Finished TC001_AccountRegistrationTest *****
+2026-04-28 12:07:07 INFO  TC_00_1_CreateAccount:40 - ***** Finished TC001_AccountRegistrationTest *****
+2026-04-28 12:07:13 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2026-04-28 12:07:18 INFO  TC003_LoginDDT:70 - ***** Finished TC_003_LoginDDT ******
+2026-04-28 12:07:18 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2026-04-28 12:07:24 INFO  TC003_LoginDDT:70 - ***** Finished TC_003_LoginDDT ******
+2026-04-28 12:07:24 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2026-04-28 12:07:38 INFO  TC003_LoginDDT:70 - ***** Finished TC_003_LoginDDT ******
+2026-04-28 12:07:38 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2026-04-28 12:07:52 INFO  TC003_LoginDDT:70 - ***** Finished TC_003_LoginDDT ******
+2026-04-28 12:07:52 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2026-04-28 12:08:07 INFO  TC003_LoginDDT:70 - ***** Finished TC_003_LoginDDT ******
+2026-04-28 12:08:07 INFO  TC003_LoginDDT:17 - ***** stating TC_003_LoginDDT ******
+2026-04-28 12:08:23 INFO  TC003_LoginDDT:70 - ***** Finished TC_003_LoginDDT ******
+2026-04-28 12:35:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\paulp\eclipse-workspace\new\OpenCart\grouping.xml
+
+2026-04-28 12:36:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\paulp\eclipse-workspace\new\OpenCart\grouping.xml
+
+2026-04-28 12:38:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\paulp\eclipse-workspace\new\OpenCart\grouping.xml
+
+2026-04-28 12:39:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\paulp\eclipse-workspace\new\OpenCart\grouping.xml
+
+2026-04-28 12:39:03 INFO  TC_00_1_CreateAccount:23 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-04-28 12:39:04 INFO  TC_00_1_CreateAccount:26 - Clicked on MyAccount Link.. 
+2026-04-28 12:39:04 INFO  TC_00_1_CreateAccount:28 - Clicked on Register Link.. 
+2026-04-28 12:39:04 INFO  TC_00_1_CreateAccount:29 - Providing customer details...
+2026-04-28 12:39:06 INFO  TC_00_1_CreateAccount:40 - ***** Finished TC001_AccountRegistrationTest *****
+2026-04-28 15:37:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\paulp\eclipse-workspace\new\OpenCart\test-output\testng-failed.xml
+
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\paulp\AppData\Local\Temp\testng-eclipse--342352103\testng-customsuite.xml
+
+2026-04-28 15:42:16 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-04-28 15:42:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@56f6d40b: 79 ms
+2026-04-28 15:42:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@292d1c71: 14 ms
+2026-04-28 15:42:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@e260766: 12 ms
+2026-04-28 15:42:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2c104774: 9 ms
+2026-04-28 15:42:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@42f3156d: 8 ms
+2026-04-28 15:42:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1ddae9b5: 0 ms
+2026-04-28 15:45:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\paulp\eclipse-workspace\new\OpenCart\grouping.xml
+
+2026-04-28 15:45:48 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2026-04-28 15:45:51 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2026-04-28 15:46:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\paulp\eclipse-workspace\new\OpenCart\test-output\Failed suite [Suite]\testng-failed.xml
+
+2026-04-28 15:55:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\paulp\eclipse-workspace\new\OpenCart\grouping.xml
+
+2026-04-28 15:55:17 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2026-04-28 15:55:20 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2026-04-28 17:15:50 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2026-04-28 17:15:53 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
